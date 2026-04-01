@@ -15,6 +15,7 @@
 - Django
 - Django REST Framework
 - Python
+- SQLite
 
 ## Setup Instructions
 1. Clone the repo
